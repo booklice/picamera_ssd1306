@@ -4,9 +4,9 @@ Picamera video streaming with oled ssd1306 (128x64).
 
 ## Installation and Usage
 
-<img src="https://github.com/youn9jo/picamera_ssd1306/blob/main/ssd1306.png" height="400" align="left" />
+<img src="https://github.com/youn9jo/picamera_ssd1306/blob/main/ssd1306.png" height="250" align="left" />
 
-<img src="https://github.com/youn9jo/picamera_ssd1306/blob/main/img.jpg" height="400" align="right" />
+<img src="https://github.com/youn9jo/picamera_ssd1306/blob/main/img.jpg" height="250" align="right" />
 
 ```shell
 sudo apt-get update
