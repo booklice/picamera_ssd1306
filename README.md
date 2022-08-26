@@ -4,7 +4,7 @@ Picamera video streaming with oled ssd1306 (128x64).
 
 ## Installation and Usage
 
-<img src="https://hackster.imgix.net/uploads/attachments/1107313/i2c_oled_128x64_raspberry_pi_wiring_7XIpEXiaTF.png" height="400" align="left" />
+<img src="https://github.com/youn9jo/picamera_ssd1306/blob/main/ssd1306.png" height="400" align="left" />
 
 <img src="https://github.com/youn9jo/picamera_ssd1306/blob/main/img.jpg" height="400" align="right" />
 
