@@ -1,6 +1,6 @@
 # Picamera with OLED SSD1306
 
-Picamera video streaming with oled ssd1306 (128x64).
+Picamera video with oled ssd1306 (128x64).
 
 ## Installation and Usage
 
